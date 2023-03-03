@@ -1,0 +1,57 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# #Create a markdown cell with the title of the notebook. 
+# 
+# This is my title
+
+# #Create a markdown cell for an introduction. 
+# 
+# Hi, my name is Tanbol and I am too lazy to do this kind of assignment.
+
+# #Create a markdown cell to list data science languages.
+# Python, R, SQL, Scala, JS, Java ...
+
+# #Create a markdown cell to list data science libraries. 
+# Numpy, pandas, matplotlib, seaborn ...
+
+# #Create a markdown cell with a table of Data Science tools. 
+# 
+# Tableu, SQL, AWS ...
+# 
+# 
+
+# #Create a markdown cell introducing arithmetic expression examples.
+# 1+1=2
+
+# In[2]:
+
+
+#Create a code cell to multiply and add numbers.
+x=2
+y=4
+print(x*y)
+
+
+# In[5]:
+
+
+#Create a code cell to convert minutes to hours. 
+minutes=1
+hours=60*minutes
+
+
+# #Insert a markdown cell to list Objectives.
+# 
+# x='What objectives?'
+# 
+
+# #Create a markdown cell to indicate the Author’s name.
+# 
+# My name is Lord Bentner
+
+# In[ ]:
+
+
+
+
